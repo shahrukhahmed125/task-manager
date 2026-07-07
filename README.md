@@ -147,15 +147,6 @@ npx prisma migrate dev
 npx prisma generate
 ```
 
-## Authentication demo
-
-A seeded admin account is created after running the seed script.
-
-```text
-Email: admin@example.com
-Password: 12345678
-```
-
 ## Development workflow
 
 1. Start the database.
